@@ -17,7 +17,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Токен твоего Telegram-бота
-TOKEN = "7822831638:AAG2JL3I-M8_Uk7CE0cS4zR8i4n7Irf9jBc"
+TOKEN = "Вставьте ваш токен"
 
 # Конфигурация базы данных
 DB_CONFIG = {
